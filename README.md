@@ -5,7 +5,8 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/17494-smena-flutter-snippets.svg)](https://plugins.jetbrains.com/plugin/17494-smena-flutter-snippets)
 
 <!-- Plugin description -->
-Плагин для IDEA/Android Studio, целью которого является ускорение и стандартизация типовых блоков в проекте.
+
+Плагин для IDEA/Android Studio, целью которого является ускорение разработки и стандартизация аспектов разработки на Dart/Flutter
 
 <!-- Plugin description end -->
 
