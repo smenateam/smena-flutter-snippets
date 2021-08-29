@@ -21,7 +21,7 @@
 Создает Repository
 
 ### sf
-Создает freezed
+Создает Freezed
 
 ### sm
 Создает Model
