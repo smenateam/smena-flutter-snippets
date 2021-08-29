@@ -11,19 +11,19 @@
 
 ## Live templates
 
-### sc
+### smcontroller
 Создает GetController
 
-### ss
+### smservice
 Создает GetService
 
-### sr
+### smrepo
 Создает Repository
 
-### sf
+### smfrzd
 Создает Freezed
 
-### sm
+### smmodel
 Создает Model
 
 ## Installation
