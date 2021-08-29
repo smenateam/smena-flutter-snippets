@@ -16,4 +16,9 @@
         <listener class="com.github.kcrebound.smenafluttersnippets.listeners.MyProjectManagerListener"
                   topic="com.intellij.openapi.project.ProjectManagerListener"/>
     </applicationListeners>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <defaultLiveTemplates file="/liveTemplates/flutter.xml"/>
+        <liveTemplateContext implementation="org.intellij.sdk.liveTemplates.FlutterContext"/>
+    </extensions>
 </idea-plugin>

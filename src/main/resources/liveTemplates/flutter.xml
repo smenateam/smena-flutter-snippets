@@ -1,0 +1,8 @@
+<templateSet group="flutter">
+    <template name="sc" value="import 'package:get/get.dart';&#10;&#10;class $My$Controller extends GetxController {&#10;    static $My$Controller get to =&gt; Get.find();&#10;    &#10;    $END$&#10;}" description="Создает GetXController" toReformat="false" toShortenFQNames="true">
+        <variable name="My" expression="" defaultValue="" alwaysStopAt="true" />
+        <context>
+            <option name="FLUTTER" value="true" />
+        </context>
+    </template>
+</templateSet>
